@@ -57,7 +57,7 @@ p {
     text-align: center;
     display: flex;
     align-items: center;
-    padding-left: 10px;
+    justify-content: center;
     position: relative;
     margin-top: -110px;
 }
